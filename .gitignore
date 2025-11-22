@@ -1,4 +1,5 @@
 # Prerequisites
+build/
 .vs*
 *.vcx*
 *.sln
